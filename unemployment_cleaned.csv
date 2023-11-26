@@ -83,8 +83,6 @@ Albania,Male,25+,2013,15.3
 Albania,Female,15+,2013,13.44
 Albania,Female,15-24,2013,27.07
 Albania,Female,25+,2013,11.93
-Netherlands Antilles,Male,15+,2013,10.48
-Netherlands Antilles,Female,15+,2013,15.38
 United Arab Emirates,Male,15+,2022,1.45
 United Arab Emirates,Male,15-24,2022,6.2
 United Arab Emirates,Male,25+,2022,1.07
@@ -1211,18 +1209,6 @@ Cameroon,Female,25+,2014,3.26
 "Congo, Democratic Republic of the",Female,15+,2020,1.08
 "Congo, Democratic Republic of the",Female,15-24,2020,1.25
 "Congo, Democratic Republic of the",Female,25+,2020,1.02
-Cook Islands,Male,15+,2019,1.56
-Cook Islands,Male,15-24,2019,4.64
-Cook Islands,Male,25+,2019,
-Cook Islands,Female,15+,2019,0.9
-Cook Islands,Female,15-24,2019,
-Cook Islands,Female,25+,2019,
-Cook Islands,Male,15+,2016,
-Cook Islands,Male,15-24,2016,
-Cook Islands,Male,25+,2016,
-Cook Islands,Female,15+,2016,1.0
-Cook Islands,Female,15-24,2016,
-Cook Islands,Female,25+,2016,
 Colombia,Male,15+,2022,8.62
 Colombia,Male,15-24,2022,17.07
 Colombia,Male,25+,2022,7.15
@@ -1391,36 +1377,6 @@ Cuba,Male,15+,2014,2.4
 Cuba,Female,15+,2014,3.1
 Cuba,Male,15+,2013,3.13
 Cuba,Female,15+,2013,3.55
-Curaçao,Male,15+,2020,17.62
-Curaçao,Male,15-24,2020,38.13
-Curaçao,Male,25+,2020,15.74
-Curaçao,Female,15+,2020,20.33
-Curaçao,Female,15-24,2020,47.13
-Curaçao,Female,25+,2020,18.6
-Curaçao,Male,15+,2018,11.3
-Curaçao,Male,15-24,2018,25.44
-Curaçao,Male,25+,2018,9.85
-Curaçao,Female,15+,2018,15.38
-Curaçao,Female,15-24,2018,34.45
-Curaçao,Female,25+,2018,14.11
-Cayman Islands,Male,15+,2015,3.3
-Cayman Islands,Male,15-24,2015,16.38
-Cayman Islands,Male,25+,2015,2.28
-Cayman Islands,Female,15+,2015,5.2
-Cayman Islands,Female,15-24,2015,11.41
-Cayman Islands,Female,25+,2015,4.67
-Cayman Islands,Male,15+,2014,4.75
-Cayman Islands,Male,15-24,2014,18.11
-Cayman Islands,Male,25+,2014,3.87
-Cayman Islands,Female,15+,2014,4.65
-Cayman Islands,Female,15-24,2014,19.07
-Cayman Islands,Female,25+,2014,3.57
-Cayman Islands,Male,15+,2013,6.7
-Cayman Islands,Male,15-24,2013,32.0
-Cayman Islands,Male,25+,2013,4.45
-Cayman Islands,Female,15+,2013,5.84
-Cayman Islands,Female,15-24,2013,16.67
-Cayman Islands,Female,25+,2013,4.85
 Cyprus,Male,15+,2022,5.96
 Cyprus,Male,15-24,2022,18.73
 Cyprus,Male,25+,2022,4.87
@@ -2075,12 +2031,6 @@ Fiji,Male,25+,2014,3.24
 Fiji,Female,15+,2014,8.51
 Fiji,Female,15-24,2014,25.73
 Fiji,Female,25+,2014,4.98
-Falkland Islands (Malvinas),Male,15+,2016,0.88
-Falkland Islands (Malvinas),Male,15-24,2016,2.0
-Falkland Islands (Malvinas),Male,25+,2016,0.77
-Falkland Islands (Malvinas),Female,15+,2016,1.09
-Falkland Islands (Malvinas),Female,15-24,2016,5.49
-Falkland Islands (Malvinas),Female,25+,2016,0.61
 France,Male,15+,2022,7.47
 France,Male,15-24,2022,19.21
 France,Male,25+,2022,6.1
@@ -2433,66 +2383,6 @@ Guyana,Male,25+,2018,9.75
 Guyana,Female,15+,2018,16.49
 Guyana,Female,15-24,2018,34.62
 Guyana,Female,25+,2018,10.66
-"Hong Kong, China",Male,15+,2022,5.11
-"Hong Kong, China",Male,15-24,2022,11.98
-"Hong Kong, China",Male,25+,2022,4.77
-"Hong Kong, China",Female,15+,2022,3.52
-"Hong Kong, China",Female,15-24,2022,10.11
-"Hong Kong, China",Female,25+,2022,3.19
-"Hong Kong, China",Male,15+,2021,6.14
-"Hong Kong, China",Male,15-24,2021,15.22
-"Hong Kong, China",Male,25+,2021,5.63
-"Hong Kong, China",Female,15+,2021,4.22
-"Hong Kong, China",Female,15-24,2021,10.42
-"Hong Kong, China",Female,25+,2021,3.88
-"Hong Kong, China",Male,15+,2020,6.88
-"Hong Kong, China",Male,15-24,2020,17.45
-"Hong Kong, China",Male,25+,2020,6.23
-"Hong Kong, China",Female,15+,2020,4.74
-"Hong Kong, China",Female,15-24,2020,13.7
-"Hong Kong, China",Female,25+,2020,4.18
-"Hong Kong, China",Male,15+,2019,3.54
-"Hong Kong, China",Male,15-24,2019,10.59
-"Hong Kong, China",Male,25+,2019,3.04
-"Hong Kong, China",Female,15+,2019,2.3
-"Hong Kong, China",Female,15-24,2019,6.57
-"Hong Kong, China",Female,25+,2019,1.98
-"Hong Kong, China",Male,15+,2018,3.18
-"Hong Kong, China",Male,15-24,2018,9.98
-"Hong Kong, China",Male,25+,2018,2.67
-"Hong Kong, China",Female,15+,2018,2.42
-"Hong Kong, China",Female,15-24,2018,7.57
-"Hong Kong, China",Female,25+,2018,2.01
-"Hong Kong, China",Male,15+,2017,3.38
-"Hong Kong, China",Male,15-24,2017,9.19
-"Hong Kong, China",Male,25+,2017,2.93
-"Hong Kong, China",Female,15+,2017,2.86
-"Hong Kong, China",Female,15-24,2017,7.97
-"Hong Kong, China",Female,25+,2017,2.42
-"Hong Kong, China",Male,15+,2016,3.69
-"Hong Kong, China",Male,15-24,2016,10.99
-"Hong Kong, China",Male,25+,2016,3.07
-"Hong Kong, China",Female,15+,2016,3.08
-"Hong Kong, China",Female,15-24,2016,8.58
-"Hong Kong, China",Female,25+,2016,2.57
-"Hong Kong, China",Male,15+,2015,3.44
-"Hong Kong, China",Male,15-24,2015,11.4
-"Hong Kong, China",Male,25+,2015,2.75
-"Hong Kong, China",Female,15+,2015,3.18
-"Hong Kong, China",Female,15-24,2015,9.61
-"Hong Kong, China",Female,25+,2015,2.57
-"Hong Kong, China",Male,15+,2014,3.57
-"Hong Kong, China",Male,15-24,2014,10.41
-"Hong Kong, China",Male,25+,2014,2.97
-"Hong Kong, China",Female,15+,2014,3.01
-"Hong Kong, China",Female,15-24,2014,8.11
-"Hong Kong, China",Female,25+,2014,2.53
-"Hong Kong, China",Male,15+,2013,3.8
-"Hong Kong, China",Male,15-24,2013,11.31
-"Hong Kong, China",Male,25+,2013,3.13
-"Hong Kong, China",Female,15+,2013,2.97
-"Hong Kong, China",Female,15-24,2013,7.74
-"Hong Kong, China",Female,25+,2013,2.49
 Honduras,Male,15+,2022,4.42
 Honduras,Male,15-24,2022,7.63
 Honduras,Male,25+,2022,3.32
@@ -2743,43 +2633,30 @@ India,Male,25+,2022,2.83
 India,Female,15+,2022,4.59
 India,Female,15-24,2022,19.26
 India,Female,25+,2022,2.85
-India,Other,15+,2022,
-India,Other,25+,2022,
 India,Male,15+,2021,6.73
 India,Male,15-24,2021,20.84
 India,Male,25+,2021,4.26
 India,Female,15+,2021,5.4
 India,Female,15-24,2021,20.08
 India,Female,25+,2021,3.63
-India,Other,15+,2021,
-India,Other,15-24,2021,
-India,Other,25+,2021,
 India,Male,15+,2020,8.24
 India,Male,15-24,2020,24.29
 India,Male,25+,2020,5.38
 India,Female,15+,2020,6.76
 India,Female,15-24,2020,25.54
 India,Female,25+,2020,4.45
-India,Other,15+,2020,12.07
-India,Other,25+,2020,12.3
 India,Male,15+,2019,6.65
 India,Male,15-24,2019,22.58
 India,Male,25+,2019,3.78
 India,Female,15+,2019,6.07
 India,Female,15-24,2019,23.11
 India,Female,25+,2019,3.68
-India,Other,15+,2019,
-India,Other,15-24,2019,
-India,Other,25+,2019,
 India,Male,15+,2018,7.63
 India,Male,15-24,2018,26.18
 India,Male,25+,2018,4.33
 India,Female,15+,2018,7.72
 India,Female,15-24,2018,26.15
 India,Female,25+,2018,5.26
-India,Other,15+,2018,
-India,Other,15-24,2018,
-India,Other,25+,2018,
 Ireland,Male,15+,2022,4.37
 Ireland,Male,15-24,2022,10.16
 Ireland,Male,25+,2022,3.55
@@ -3852,50 +3729,6 @@ Latvia,Male,25+,2013,11.55
 Latvia,Female,15+,2013,11.14
 Latvia,Female,15-24,2013,24.93
 Latvia,Female,25+,2013,9.93
-"Macau, China",Male,15+,2020,2.9
-"Macau, China",Male,15-24,2020,9.91
-"Macau, China",Male,25+,2020,2.51
-"Macau, China",Female,15+,2020,2.2
-"Macau, China",Female,15-24,2020,6.36
-"Macau, China",Female,25+,2020,1.99
-"Macau, China",Male,15+,2019,2.1
-"Macau, China",Male,15-24,2019,5.47
-"Macau, China",Male,25+,2019,1.95
-"Macau, China",Female,15+,2019,1.3
-"Macau, China",Female,15-24,2019,4.24
-"Macau, China",Female,25+,2019,1.16
-"Macau, China",Male,15+,2018,2.3
-"Macau, China",Male,15-24,2018,6.19
-"Macau, China",Male,25+,2018,2.05
-"Macau, China",Female,15+,2018,1.3
-"Macau, China",Female,15-24,2018,4.7
-"Macau, China",Female,25+,2018,1.13
-"Macau, China",Male,15+,2017,2.4
-"Macau, China",Male,15-24,2017,6.45
-"Macau, China",Male,25+,2017,2.1
-"Macau, China",Female,15+,2017,1.6
-"Macau, China",Female,15-24,2017,4.26
-"Macau, China",Female,25+,2017,1.39
-"Macau, China",Male,15+,2016,2.3
-"Macau, China",Male,15-24,2016,6.49
-"Macau, China",Male,25+,2016,1.94
-"Macau, China",Female,15+,2016,1.5
-"Macau, China",Female,15-24,2016,3.62
-"Macau, China",Female,25+,2016,1.41
-"Macau, China",Male,15+,2015,1.97
-"Macau, China",Male,15-24,2015,5.7
-"Macau, China",Male,25+,2015,1.68
-"Macau, China",Female,15+,2015,1.57
-"Macau, China",Female,15-24,2015,3.85
-"Macau, China",Female,25+,2015,1.37
-"Macau, China",Male,15+,2014,1.93
-"Macau, China",Female,15+,2014,1.39
-"Macau, China",Male,15+,2013,2.23
-"Macau, China",Male,15-24,2013,5.49
-"Macau, China",Male,25+,2013,1.88
-"Macau, China",Female,15+,2013,1.4
-"Macau, China",Female,15-24,2013,3.03
-"Macau, China",Female,25+,2013,1.19
 Morocco,Male,15+,2021,10.9
 Morocco,Male,15-24,2021,28.42
 Morocco,Male,25+,2021,8.67
@@ -4196,17 +4029,12 @@ Malta,Male,25+,2022,2.4
 Malta,Female,15+,2022,2.63
 Malta,Female,15-24,2022,5.88
 Malta,Female,25+,2022,2.26
-Malta,Other,15+,2022,
-Malta,Other,15-24,2022,
-Malta,Other,25+,2022,
 Malta,Male,15+,2021,3.6
 Malta,Male,15-24,2021,14.11
 Malta,Male,25+,2021,2.71
 Malta,Female,15+,2021,3.08
 Malta,Female,15-24,2021,6.58
 Malta,Female,25+,2021,2.69
-Malta,Other,15+,2021,
-Malta,Other,25+,2021,
 Malta,Male,15+,2020,4.24
 Malta,Male,15-24,2020,13.29
 Malta,Male,25+,2020,3.29
@@ -4649,15 +4477,6 @@ Nicaragua,Male,25+,2014,2.91
 Nicaragua,Female,15+,2014,5.61
 Nicaragua,Female,15-24,2014,12.95
 Nicaragua,Female,25+,2014,3.78
-Niue,Male,15+,2015,
-Niue,Male,15-24,2015,
-Niue,Female,15+,2015,
-Niue,Female,15-24,2015,
-Niue,Male,15+,2017,
-Niue,Male,25+,2017,
-Niue,Female,15+,2017,
-Niue,Female,15-24,2017,
-Niue,Female,25+,2017,
 Netherlands,Male,15+,2022,3.27
 Netherlands,Male,15-24,2022,7.32
 Netherlands,Male,25+,2022,2.44
@@ -5280,66 +5099,6 @@ Paraguay,Male,25+,2013,2.62
 Paraguay,Female,15+,2013,4.95
 Paraguay,Female,15-24,2013,11.89
 Paraguay,Female,25+,2013,2.94
-Occupied Palestinian Territory,Male,15+,2022,20.34
-Occupied Palestinian Territory,Male,15-24,2022,31.89
-Occupied Palestinian Territory,Male,25+,2022,17.05
-Occupied Palestinian Territory,Female,15+,2022,40.35
-Occupied Palestinian Territory,Female,15-24,2022,56.99
-Occupied Palestinian Territory,Female,25+,2022,36.79
-Occupied Palestinian Territory,Male,15+,2021,22.38
-Occupied Palestinian Territory,Male,15-24,2021,37.25
-Occupied Palestinian Territory,Male,25+,2021,18.25
-Occupied Palestinian Territory,Female,15+,2021,42.85
-Occupied Palestinian Territory,Female,15-24,2021,64.54
-Occupied Palestinian Territory,Female,25+,2021,38.32
-Occupied Palestinian Territory,Male,15+,2020,22.48
-Occupied Palestinian Territory,Male,15-24,2020,36.6
-Occupied Palestinian Territory,Male,25+,2020,18.69
-Occupied Palestinian Territory,Female,15+,2020,40.07
-Occupied Palestinian Territory,Female,15-24,2020,69.96
-Occupied Palestinian Territory,Female,25+,2020,33.84
-Occupied Palestinian Territory,Male,15+,2019,21.35
-Occupied Palestinian Territory,Male,15-24,2019,34.79
-Occupied Palestinian Territory,Male,25+,2019,17.3
-Occupied Palestinian Territory,Female,15+,2019,41.19
-Occupied Palestinian Territory,Female,15-24,2019,67.17
-Occupied Palestinian Territory,Female,25+,2019,35.38
-Occupied Palestinian Territory,Male,15+,2018,22.42
-Occupied Palestinian Territory,Male,15-24,2018,37.01
-Occupied Palestinian Territory,Male,25+,2018,17.71
-Occupied Palestinian Territory,Female,15+,2018,41.9
-Occupied Palestinian Territory,Female,15-24,2018,69.44
-Occupied Palestinian Territory,Female,25+,2018,35.46
-Occupied Palestinian Territory,Male,15+,2017,21.53
-Occupied Palestinian Territory,Male,15-24,2017,36.55
-Occupied Palestinian Territory,Male,25+,2017,16.58
-Occupied Palestinian Territory,Female,15+,2017,42.83
-Occupied Palestinian Territory,Female,15-24,2017,67.15
-Occupied Palestinian Territory,Female,25+,2017,36.14
-Occupied Palestinian Territory,Male,15+,2016,20.58
-Occupied Palestinian Territory,Male,15-24,2016,34.07
-Occupied Palestinian Territory,Male,25+,2016,16.12
-Occupied Palestinian Territory,Female,15+,2016,37.97
-Occupied Palestinian Territory,Female,15-24,2016,61.07
-Occupied Palestinian Territory,Female,25+,2016,31.81
-Occupied Palestinian Territory,Male,15+,2015,20.2
-Occupied Palestinian Territory,Male,15-24,2015,33.7
-Occupied Palestinian Territory,Male,25+,2015,15.67
-Occupied Palestinian Territory,Female,15+,2015,34.32
-Occupied Palestinian Territory,Female,15-24,2015,56.55
-Occupied Palestinian Territory,Female,25+,2015,28.8
-Occupied Palestinian Territory,Male,15+,2014,19.2
-Occupied Palestinian Territory,Male,15-24,2014,34.2
-Occupied Palestinian Territory,Male,25+,2014,14.35
-Occupied Palestinian Territory,Female,15+,2014,26.16
-Occupied Palestinian Territory,Female,15-24,2014,52.07
-Occupied Palestinian Territory,Female,25+,2014,20.91
-Occupied Palestinian Territory,Male,15+,2013,18.19
-Occupied Palestinian Territory,Male,15-24,2013,34.5
-Occupied Palestinian Territory,Male,25+,2013,12.89
-Occupied Palestinian Territory,Female,15+,2013,27.43
-Occupied Palestinian Territory,Female,15-24,2013,58.8
-Occupied Palestinian Territory,Female,25+,2013,21.28
 Qatar,Male,15+,2022,0.08
 Qatar,Male,15-24,2022,0.25
 Qatar,Male,25+,2022,0.06
@@ -6392,54 +6151,6 @@ Tuvalu,Male,25+,2017,17.64
 Tuvalu,Female,15+,2017,28.21
 Tuvalu,Female,15-24,2017,57.63
 Tuvalu,Female,25+,2017,18.05
-"Taiwan, China",Male,15+,2020,3.92
-"Taiwan, China",Male,15-24,2020,11.28
-"Taiwan, China",Male,25+,2020,3.3
-"Taiwan, China",Female,15+,2020,3.76
-"Taiwan, China",Female,15-24,2020,12.05
-"Taiwan, China",Female,25+,2020,3.01
-"Taiwan, China",Male,15+,2019,3.85
-"Taiwan, China",Male,15-24,2019,11.47
-"Taiwan, China",Male,25+,2019,3.19
-"Taiwan, China",Female,15+,2019,3.58
-"Taiwan, China",Female,15-24,2019,12.42
-"Taiwan, China",Female,25+,2019,2.72
-"Taiwan, China",Male,15+,2018,3.89
-"Taiwan, China",Male,15-24,2018,11.18
-"Taiwan, China",Male,25+,2018,3.26
-"Taiwan, China",Female,15+,2018,3.48
-"Taiwan, China",Female,15-24,2018,11.68
-"Taiwan, China",Female,25+,2018,2.69
-"Taiwan, China",Male,15+,2017,4.0
-"Taiwan, China",Male,15-24,2017,11.55
-"Taiwan, China",Male,25+,2017,3.4
-"Taiwan, China",Female,15+,2017,3.45
-"Taiwan, China",Female,15-24,2017,12.42
-"Taiwan, China",Female,25+,2017,2.6
-"Taiwan, China",Male,15+,2016,4.19
-"Taiwan, China",Male,15-24,2016,11.73
-"Taiwan, China",Male,25+,2016,3.58
-"Taiwan, China",Female,15+,2016,3.57
-"Taiwan, China",Female,15-24,2016,12.53
-"Taiwan, China",Female,25+,2016,2.72
-"Taiwan, China",Male,15+,2015,4.05
-"Taiwan, China",Male,15-24,2015,12.42
-"Taiwan, China",Male,25+,2015,3.41
-"Taiwan, China",Female,15+,2015,3.44
-"Taiwan, China",Female,15-24,2015,11.69
-"Taiwan, China",Female,25+,2015,2.66
-"Taiwan, China",Male,15+,2014,4.27
-"Taiwan, China",Male,15-24,2014,13.12
-"Taiwan, China",Male,25+,2014,3.62
-"Taiwan, China",Female,15+,2014,3.56
-"Taiwan, China",Female,15-24,2014,12.16
-"Taiwan, China",Female,25+,2014,2.71
-"Taiwan, China",Male,15+,2013,4.47
-"Taiwan, China",Male,15-24,2013,13.23
-"Taiwan, China",Male,25+,2013,3.82
-"Taiwan, China",Female,15+,2013,3.8
-"Taiwan, China",Female,15-24,2013,13.01
-"Taiwan, China",Female,25+,2013,2.86
 "Tanzania, United Republic of",Male,15+,2020,1.89
 "Tanzania, United Republic of",Male,15-24,2020,2.86
 "Tanzania, United Republic of",Male,25+,2020,1.54
