@@ -17,8 +17,9 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 
 <!-- Top container -->
 <div class="w3-bar w3-top w3-black w3-large" style="z-index:4">
-  <button class="w3-bar-item w3-button w3-hide-large w3-hover-none w3-hover-text-light-grey" onclick="w3_open();"><i class="fa fa-bars"></i>Unemployment Rate Analysis</button>
-  <span class="w3-bar-item w3-right">Group 4</span>
+  <!-- <button class="w3-bar-item w3-button w3-hide-large w3-hover-none w3-hover-text-light-grey" onclick="w3_open();"><i class="fa fa-bars"></i>Unemployment Rate Analysis</button> -->
+  <span class="w3-bar-item w3-right">Prepared by Larisa, Alice, Giselle
+  </span>
 </div>
 
 <!-- Sidebar/menu -->
@@ -33,21 +34,23 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   </div>
   <hr>
   <div class="w3-container">
-    <h5><b>Contents</b></h5>
+    <h5><b>Dashboard</b></h5>
   </div>
   <div class="w3-container">
-    <h5>Unemployment Rate Analysis page</h5>
+    <a href="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/page1.html"><h5>Unemployment Rate Analysis</h5></a>
   </div>
   <div class="w3-container">
-    <h5>page2</h5>
+    <a href="page2.html"><h5>page2</h5></a>
   </div>
   <div class="w3-container">
-    <h5>page3</h5>
+    <a href="page3.html"><h5>page2</h5></a>
   </div>
    <div class="w3-container">
-    <h5>page4</h5>
+    <a href="page4.html"><h5>page2</h5></a>
   </div>
- 
+  <div class="w3-container">
+    <a href="https://public.tableau.com/views/project4_17006664941310/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link"><h5>MapView</h5></a>
+  </div>
 </nav>
 
 <!-- !PAGE CONTENT! -->
@@ -55,37 +58,40 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 
   <!-- Header -->
   <header class="w3-container" style="padding-top:22px">
-    <h5><b><i class="fa fa-dashboard"></i>Dashboard</b></h5>
+    <!-- <h5><b><i class="fa fa-dashboard"></i></b></h5> -->
   </header>
 
   <div class="w5-row-padding w5-margin-bottom">
-    <div class="w5-quarter" style="max-width:800px; margin:auto;">
+    <div class="w5-quarter" style="max-width:1000px; margin:auto;">
       <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/coverpage-image.png" style="width:100%; height:auto;">
-      </div>
     </div>
-    <div class="w3-container">
-      <h5>Unemployment Rate</h5>
-      <a href="https://www.ilo.org/shinyapps/bulkexplorer2/?lang=en&segment=indicator&id=UNE_2EAP_SEX_AGE_RT_A"><b>Data Source</b></a>
-        <p>By Age Group</p>
-        <p>15+</p>
-        <div class="w3-white">
-          <div class="w3-container w3-center w3-padding w3-orange" style="width:8.91%">Female: +8.91%</div>
-          <div class="w3-container w3-center w3-padding w3-blue" style="width:7.24%">Male: +7.24%
-      </div>
-        <p>15-24</p>
-        <div class="w3-white">
-          <div class="w3-container w3-center w3-padding w3-orange" style="width:20.28%">Female: +20.28%</div>
-          <div class="w3-container w3-center w3-padding w3-blue" style="width:17.02%">Male: +17.02%
-      </div>
-        <p>25+</p>
-        <div class="w3-white">
-          <div class="w3-container w3-center w3-padding w3-orange" style="width:7.16%">Female: +7.16%</div>
-          <div class="w3-container w3-center w3-padding w3-blue" style="width:5.83%">Male: +5.83%
-      </div>
   </div>
+    <div class="w3-container">
+      <h5>Unemployment Rate By Age Group</h5>
+      <a href="https://www.ilo.org/shinyapps/bulkexplorer2/?lang=en&segment=indicator&id=UNE_2EAP_SEX_AGE_RT_A"><b>Data Source</b></a>
+        <!-- <p>By Age Group</p> -->
+      </div>
+
+      <div class="w3-container">
+          <div class="w3-grey">
+            <p>15+</p>
+          <div class="w3-container w3-center w3-padding w3-orange" style="width:8.91%; font-size: 18px;">Female: +8.91%</div>
+          <div class="w3-container w3-center w3-padding w3-blue" style="width:7.24%; font-size: 18px;">Male: +7.24%
+        </div>
+          <div class="w3-grey">
+            <p>15-24</p>
+          <div class="w3-container w3-center w3-padding w3-orange" style="width:20.28%; font-size: 18px;">Female: +20.28%</div>
+          <div class="w3-container w3-center w3-padding w3-blue" style="width:17.02%; font-size: 18px;">Male: +17.02%
+        </div>
+          <div class="w3-grey">
+            <p>25+</p>
+          <div class="w3-container w3-center w3-padding w3-orange" style="width:7.16%; font-size: 18px;">Female: +7.16%</div>
+          <div class="w3-container w3-center w3-padding w3-blue" style="width:5.83%; font-size: 18px;">Male: +5.83%
+        </div>
+      </div>
   <!-- Footer -->
   <footer class="w3-container w3-padding-16 w3-light-grey">
-    <p>Prepared by Alice, Giselle, Larisa</p>
+    <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
   </footer>
 
   <!-- End page content -->
