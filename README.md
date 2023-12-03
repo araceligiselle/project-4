@@ -1,4 +1,22 @@
-# Part-1 Unemployment Rate Dataset
+# Project 4 : Female in the Workplace Analysis: A Machine Learning Approach
+Website: 
+
+- Overview: This project aims to analyse and visualise the status and trends related to women in the workplace globally. 
+
+- Objectives: 
+1.	Problem Identification: Analyse the current state of women in the workplace, focusing on aspects such as opportunity equity, pay equity, and leadership roles. 
+2.	Prediction and Visualization: Use ML models to predict future trends in these areas and visualize the data for easy interpretation and insight generation.
+
+- Data Source: We have used 4 csv files sourced from International Labour Organisation https://ilostat.ilo.org/data/ 
+
+- Technologies and Tools
+1.	Machine Learning Libraries: Scikit-learn for model building and predictions.
+2.	Python: Pandas for data manipulation; Matplotlib for basic visualizations.
+3.	Tableau: Plots for interactive visualizations.
+4.	Front-End Development: HTML/CSS for user interface design.
+5.	Cloud Services: Amazon AWS for cloud data storage and static website host.
+
+# Part-1 Opportunities Equity Analysis: 1.1 Unemployment Analysis
 
 ## Clustering
 - K-Means Clustering: Partition countries into groups based on similarities in their unemployment data.
@@ -20,3 +38,6 @@ Note: The choice of bins for categorizing the unemployment rate is subjective an
 - The cross-validation scores indicate a decent but somewhat varying performance across different parts of the dataset.
 
 Overall, the model's performance can be considered good, especially in comparison to the initial model. However, there is always room for further tuning and improvement, particularly in addressing the variability indicated by the cross-validation scores. This could involve further hyperparameter tuning, feature engineering, or even collecting more data if possible.
+
+# 1.2 Employment Analysis 
+
