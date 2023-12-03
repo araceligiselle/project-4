@@ -1,0 +1,70 @@
+/* General styles */
+.w3-bar .w3-button {
+    letter-spacing: 4px;
+  }
+  
+  .w3-content {
+    max-width: 1100px;
+    margin: auto;
+  }
+  
+  /* Section styles */
+  .w3-row {
+    padding: 64px 0;
+  }
+  
+  .w3-padding-large {
+    padding: 24px;
+  }
+  
+  /* Image styles */
+  .image-size {
+    width: 1000px !important; /* Set the width you desire */
+    height: 800px !important; /* Set the height you desire */
+    object-fit: cover !important; /* This resizes the image to cover the container while preserving its aspect ratio */
+  }
+  
+  
+  /* Responsive styles */
+  @media only screen and (max-width: 600px) {
+    .w3-hide-small {
+      display: none;
+    }
+  
+    .w3-row {
+      padding: 32px 0;
+    }
+  }
+  
+  /* Navbar styles */
+  .w3-top {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+  }
+  
+  .w3-bar {
+    background: white;
+    padding: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+
+  .cluster-info h2 {
+    font-size: 1.2em;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .cluster-info p {
+    font-size: 1em;
+    color: #333;
+    line-height: 1.4;
+  }
+
+  .w3-col h1 {
+    font-size: 36px;
+    color: #333;
+    line-height: 1.2;
+  }
+  /* Add other styles below as needed */
+  
