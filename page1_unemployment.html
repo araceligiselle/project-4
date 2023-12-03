@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+</style>
+
+</head>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button">Unemployment Analysis</a>
+    <!-- Right-sided navbar links. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+        <a href="#dataset" class="w3-bar-item w3-button">A Glance at the Dataset</a>
+        <a href="#clusters" class="w3-bar-item w3-button">Optimal Clusters</a>
+        <a href="#clustering" class="w3-bar-item w3-button">Clustering</a>
+        <a href="#prediction" class="w3-bar-item w3-button">Prediction</a>
+      </div>
+  </div>
+</div>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:1500px">
+
+  <!-- Dataset Section -->
+  <div class="w3-row w3-padding-64" id="dataset">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/part1-unemployment+dataset.png" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Employment Dataset</h1>
+      <p class="w3-large">This dataset presents a view of unemployment statistics across various countries, 
+        structured by gender, age groups, and years. 
+        The data spans from 2013 to 2023 and encompasses 184 unique countries.</p>
+    </div>
+  </div>
+
+  <!-- Optimal Clusters Section -->
+  <div class="w3-row w3-padding-64" id="clusters">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/number+of+clusters.png" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Elbow Method</h1>
+      <p class="w3-large">Elbow Method is used to determine the optimal number of clusters for this dataset.</p>
+    </div>
+  </div>
+  
+  <!-- Clustering Section -->
+  <div class="w3-row w3-padding-32" id="clustering">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/country+clusters+1" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Clusters of Countries by Female Unemployment Rate</h1>
+      <div class="cluster-info">
+        <h2>Cluster 0 includes:</h2>
+        <p>Algeria, Bosnia and Herzegovina, Botswana, Cabo Verde, Djibouti, Egypt, Eswatini, French Guiana, Greece, Guadeloupe, Iran, Islamic Republic of, Iraq, Jordan, Kosovo, Lesotho, Namibia, North Macedonia, Réunion, Saint Lucia, Saudi Arabia, Somalia, South Africa, Spain, Tunisia, Tuvalu, Yemen</p>
+        <h2>Cluster 1 includes:</h2>
+        <p>Australia, Austria, Belarus, Benin, Bolivia, Burundi, Cambodia, Cameroon, Chad, Congo, Democratic Republic of the, Cuba, Czechia, Côte d'Ivoire, Denmark, Ecuador, El Salvador, Ethiopia, Faeroe Islands, Gambia, Germany, Ghana, Guatemala, Guinea,
+          Guinea-Bissau, Iceland, Indonesia, Isle of Man, Israel, Japan, Kazakhstan, Kenya, Korea, Republic of, Kyrgyzstan, Lao People's Democratic Republic, Liberia, Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Mexico, Moldova, Republic of,
+           Mozambique, Myanmar, Netherlands, New Zealand, Nicaragua, Niger, Norway, Pakistan, Palau, Peru, Philippines, Qatar, Senegal, Seychelles, Sierra Leone, Singapore, Solomon Islands, Switzerland, Tajikistan, Tanzania, United Republic of, Thailand,
+           Timor-Leste, Togo, Tonga, Trinidad and Tobago, Uganda, United Kingdom, United States, Vanuatu, Viet Nam, Zambia</p>
+        <h2>Cluster 2 includes:</h2>
+        <p>Afghanistan, Azerbaijan, Bangladesh, Belgium, Bermuda, Bhutan, Bulgaria, Burkina Faso, Canada, Chile, Comoros, Dominican Republic, Estonia, 
+          Fiji, Finland, France, Honduras, Hungary, India, Ireland, Kiribati, Kuwait, Latvia, Lithuania, Luxembourg, Marshall Islands, Mongolia, Montserrat, 
+          Nepal, Nigeria, Oman, Panama, Paraguay, Poland, Puerto Rico, Romania, Russian Federation, Rwanda, Slovakia, Slovenia, Sri Lanka, Sweden, Ukraine, United Arab Emirates, 
+          Uzbekistan, Bolivarian Republic of Venezuela, Wallis and Futuna Islands, Zimbabwe</p>
+        <h2>Cluster 3 includes:</h2>
+        <p>Albania, Angola, Argentina, Armenia, Bahamas, Barbados, Belize, Brazil, Brunei Darussalam, Colombia, Costa Rica, Croatia, Cyprus, Georgia, Grenada, 
+           Guyana, Italy, Jamaica, Lebanon, Martinique, Mauritania, Mauritius, Federated States of Micronesia, Monaco, Montenegro, Morocco, Nauru, New Caledonia, Portugal, Samoa, 
+           San Marino, Serbia, Suriname, Türkiye, Uruguay</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Prediction Section -->
+  <div class="w3-row w3-padding-64" id="prediction">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/part1-ML+RFC.png" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Random Forest Classifier</h1>
+      <p class="w3-large">Accuracy: 0.6717095310136157</p>
+    </div>
+  </div>
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/part1-ML+RFC+optimised.png" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Model Optimisation</h1>
+      <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/part1-ML+optimal+result.png" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+      <p class="w3-large">Accuracy: 0.85</p>
+    </div>
+  
+<!-- End page content -->
+</div>
+
+</body>
+</html>
