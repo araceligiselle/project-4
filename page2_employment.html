@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+</style>
+
+</head>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button">Employment Analysis</a>
+    <!-- Right-sided navbar links. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+        <a href="#dataset" class="w3-bar-item w3-button">A Glance at the Dataset</a>
+        <a href="#prediction" class="w3-bar-item w3-button">Prediction</a>
+      </div>
+  </div>
+</div>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:1500px">
+
+  <!-- Dataset Section -->
+  <div class="w3-row w3-padding-64" id="dataset">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/employment+dataset.png" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Employment Dataset</h1>
+      <p class="w3-large">This dataset presents a comprehensive view of employment statistics across various countries. 
+        Each record includes details such as the country, the individual's gender, their level of education (categorised according to the ISCED standard), marital status, the year of the data, and the employee count in thousands. 
+        The data spans from 2013 to 2023 and encompasses 154 unique countries.</p>
+    </div>
+  </div>
+  
+  <!-- Prediction Section -->
+  <div class="w3-row w3-padding-64" id="prediction">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/part2-LR+model.png" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Building and Evaluating a Linear Regression Model</h1>
+      <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/part2-LR+model+evaluate.png" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+    </div>
+  </div>
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/part2-RFR+optimal.png" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Implementing a Random Forest Regressor Model</h1>
+      <p class="w3-large">Mean Squared Error: 29267.063522798497, R-squared: 0.9328716759775947<br>
+        Cross-validated R2 scores: [0.87150743 0.9536416  0.88265804 0.93451648 0.94245822]<br>
+        Mean R2 score: 0.9169563536864171</p>
+    </div>
+    <div class="w3-row w3-padding-64" id="prediction">
+      <div class="w3-col m6 w3-padding-large w3-hide-small">
+       <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/part2+features+importance+plot.png" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+      </div>
+      <div class="w3-col m6 w3-padding-large">
+        <h1 class="w3-center">Features Importance</h1>
+        <p class="w3-large">Feature importances indicate the contribution of each feature to the model's predictions.  
+          This understanding is critical for interpreting the model and comprehending the underlying patterns in the data.</p>
+      </div>
+<!-- End page content -->
+</div>
+
+</body>
+</html>
