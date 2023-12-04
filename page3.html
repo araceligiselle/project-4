@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Salary Rates by Gender</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+</style>
+
+</head>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button">Salary Rates by Gender Analysis</a>
+    <!-- Right-sided navbar links. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+        <a href="#graph" class="w3-bar-item w3-button">Skill Levels by Employment</a>
+        <a href="#scatter" class="w3-bar-item w3-button">Relationship with Education</a>
+        <a href="#prediction" class="w3-bar-item w3-button">Linear Regression Prediction</a>
+      </div>
+  </div>
+</div>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:1500px">
+
+  <!-- Skill Levels by Employment -->
+  <div class="w3-row w3-padding-64" id="graph">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/Top+10+Skill+Levels+by+Female+Employment.png" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Top 10 Skills Levels</h1>
+      <p class="w3-large">Unemployment rates compared to Female Skilled Levels </p>
+    </div>
+  </div>
+  
+  <!-- Relationship with Education -->
+  <div class="w3-row w3-padding-32" id="scatter">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/Relationship+Between+Education+Level+and+Hourly+Rate.png" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Scatter Plot of Education vs Hourly Rate </h1>
+      <div  class="w3-large">
+        <p>The graph is a visual way to explore and understand how education and income are connected. Each dot is a real person, and the patterns in the dots help us see if there is a trend in how education influences hourly rates. It is as showing a snapshot of real-life stories told through numbers on a chart.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Prediction Section -->
+  <div class="w3-row w3-padding-64" id="prediction">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/code+linear+regression+.png" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Linear Regression Prediction</h1>
+      <p class="w3-large">The script is designed to perform linear regression of the dataset, assuming a relationship between a feature years and a target variable representing an education skill level. 
+        The goal is to create a model that can predict education skill levels based on the passage of time.</p>
+    </div>
+  </div>
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="https://lxproject4.s3.ap-southeast-2.amazonaws.com/project-4/Images/Linear+Regression+Prediction+for+Education+Skill+Level.png" class="w3-round w3-image w3-opacity-min" alt="Optimal Clusters">
+    </div>
+  
+<!-- End page content -->
+</div>
+
+</body>
+</html>

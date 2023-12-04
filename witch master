@@ -1,0 +1,243 @@
+[33mcommit 692547547aee063ca5f937246b2d644ad6102951[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Mon Dec 4 23:20:16 2023 +1030
+
+    update
+
+[33mcommit 9ad92eb268e64e1c6c2798450f4e8532dd60eb0f[m
+Merge: cb15e87 87967d1
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Mon Dec 4 23:12:43 2023 +1030
+
+    Merge branch 'main' of github.com:araceligiselle/project-4
+
+[33mcommit cb15e873ff9919dd05266824a7cbd9e31701fe2b[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Mon Dec 4 23:09:14 2023 +1030
+
+    update
+
+[33mcommit 87967d13791d2547fd2db348382c531a5135c2f0[m
+Author: Araceli Giselle Salvatierra <132976313+araceligiselle@users.noreply.github.com>
+Date:   Mon Dec 4 15:27:15 2023 +1030
+
+    Update README.md
+
+[33mcommit 5389f49f68d7e9c525dc4efd6b8322eb171e56b3[m
+Author: Araceli Giselle Salvatierra <132976313+araceligiselle@users.noreply.github.com>
+Date:   Mon Dec 4 15:26:33 2023 +1030
+
+    Update README.md
+
+[33mcommit d953f8712f692c25cdf9ff1041642ac49fbb40c6[m
+Author: Araceli Giselle Salvatierra <132976313+araceligiselle@users.noreply.github.com>
+Date:   Mon Dec 4 15:26:00 2023 +1030
+
+    Update README.md
+
+[33mcommit de9b7e097c9aac8dc090025353180af62323dbd6[m
+Author: alicemhandley <135322572+alicemhandley@users.noreply.github.com>
+Date:   Mon Dec 4 13:08:32 2023 +1030
+
+    commit
+
+[33mcommit 45309fe3767e4f9eb38a59d97d51fe6d8bd5b9a1[m
+Author: Araceli Giselle Salvatierra <132976313+araceligiselle@users.noreply.github.com>
+Date:   Mon Dec 4 12:35:41 2023 +1030
+
+    Add files via upload
+
+[33mcommit d6c3408bf720aee5b32e36ba81e2704ccdcaef08[m
+Author: Araceli Giselle Salvatierra <132976313+araceligiselle@users.noreply.github.com>
+Date:   Mon Dec 4 12:13:23 2023 +1030
+
+    Add files via upload
+
+[33mcommit 474c7d954e5660e89079133b63415f00dec87bef[m
+Author: Araceli Giselle Salvatierra <132976313+araceligiselle@users.noreply.github.com>
+Date:   Mon Dec 4 12:12:04 2023 +1030
+
+    Add files via upload
+
+[33mcommit 760ebc2d8d026f3e304d6881757b7f054b6dc17e[m
+Author: Araceli Giselle Salvatierra <132976313+araceligiselle@users.noreply.github.com>
+Date:   Mon Dec 4 12:11:38 2023 +1030
+
+    Delete Images/Top 10 Skill Levels by Female Employment.png
+
+[33mcommit 9b00e7b5bf00f7877b9f234ed41a74d956ce51de[m
+Author: Araceli Giselle Salvatierra <132976313+araceligiselle@users.noreply.github.com>
+Date:   Mon Dec 4 12:11:26 2023 +1030
+
+    Delete Images/Relationship Between Education Level and Hourly Rate.png
+
+[33mcommit 455ff87ffb43883d436f3db2a2bc463c68a8e010[m
+Author: Araceli Giselle Salvatierra <132976313+araceligiselle@users.noreply.github.com>
+Date:   Mon Dec 4 12:11:15 2023 +1030
+
+    Delete Images/Linear Regression Prediction for Education Skill Level.png
+
+[33mcommit b7bce673389aa6bb8ba803dd19ee6b8f7fcd74fc[m
+Author: alicemhandley <135322572+alicemhandley@users.noreply.github.com>
+Date:   Mon Dec 4 11:33:01 2023 +1030
+
+    commit
+
+[33mcommit 5da930b22052a04a51793c6ba4dcf24013e3dea8[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Mon Dec 4 01:29:20 2023 +1030
+
+    css
+
+[33mcommit df12173e3dfc6de2ef32b03a942ce225cc770479[m
+Merge: 4cc3a49 e14248f
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Mon Dec 4 01:26:02 2023 +1030
+
+    Merge branch 'main' of github.com:araceligiselle/project-4
+
+[33mcommit 4cc3a49802896018c4b16a4f406806f8bf37536b[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Mon Dec 4 01:25:40 2023 +1030
+
+    update
+
+[33mcommit e14248fd54560a70ab829ef732d8a62f3aef7bcd[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Mon Dec 4 01:07:33 2023 +1030
+
+    Delete project4_ml.ipynb
+
+[33mcommit d7508382e6563e21770760c96228a71238a39304[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Mon Dec 4 01:06:51 2023 +1030
+
+    Delete page1.html
+
+[33mcommit fa4b138cb4922c45520f01b413379c9a9ae48d9a[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Mon Dec 4 01:05:56 2023 +1030
+
+    page2 update
+
+[33mcommit ee0844bc9b0acdb3bfde10a327c729c34656d738[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Mon Dec 4 01:05:29 2023 +1030
+
+    page1 update
+
+[33mcommit 54e303bfdba79bd692f66b78bf40a34a23f890c5[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Mon Dec 4 01:04:37 2023 +1030
+
+    webpage update
+
+[33mcommit a26fcc4c2d34c8503d1a9160071a6b057a6d680b[m
+Merge: 14bd8a4 52357cd
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Sun Dec 3 16:14:32 2023 +1030
+
+    Merge branch 'main' of github.com:araceligiselle/project-4
+
+[33mcommit 14bd8a469f298cc2d4f990b681c5da0a5a824735[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Sun Dec 3 16:13:55 2023 +1030
+
+    project4
+
+[33mcommit 52357cd9c5036d9852a58954276c6120b2dac369[m
+Author: Araceli Giselle Salvatierra <132976313+araceligiselle@users.noreply.github.com>
+Date:   Sun Dec 3 15:01:26 2023 +1030
+
+    Add files via upload
+
+[33mcommit 4211631fe3cf6efb7ed20a37f795de3bd86c52c4[m
+Author: Araceli Giselle Salvatierra <132976313+araceligiselle@users.noreply.github.com>
+Date:   Sun Dec 3 11:55:29 2023 +1030
+
+    Delete Rates_by_sex/cleaned_data
+
+[33mcommit 582c27a3024f4e50496392e627e0e6c4ee1f83ee[m
+Author: Araceli Giselle Salvatierra <132976313+araceligiselle@users.noreply.github.com>
+Date:   Sun Dec 3 11:54:45 2023 +1030
+
+    Add files via upload
+
+[33mcommit cb6a99b44ecae5fa6478a92ffef166463ad350bb[m
+Author: Araceli Giselle Salvatierra <132976313+araceligiselle@users.noreply.github.com>
+Date:   Sun Dec 3 11:53:08 2023 +1030
+
+    Create cleaned_data
+
+[33mcommit ef2d8daed033782830e2def69e95943d056c0a9f[m
+Author: Araceli Giselle Salvatierra <132976313+araceligiselle@users.noreply.github.com>
+Date:   Sun Dec 3 11:51:21 2023 +1030
+
+    Add files via upload
+
+[33mcommit ae577d28c225a0bb4d2973e558653be8cf9c5233[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Sat Dec 2 14:40:23 2023 +1030
+
+    webpage1 update
+
+[33mcommit cf1b088e603d03b80d99399a28d7a5742386b3c8[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Fri Dec 1 00:51:52 2023 +1030
+
+    update
+
+[33mcommit 65a85c47864080349d966e4d79a396713f02ba0a[m
+Merge: 202ab89 afcbf57
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Fri Dec 1 00:45:57 2023 +1030
+
+    Merge branch 'main' of github.com:araceligiselle/project-4
+
+[33mcommit 202ab89be1db4a50852730d80396f6fa9b3825c7[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Fri Dec 1 00:42:28 2023 +1030
+
+    part2 employment analysis
+
+[33mcommit d0d954fb95caf2a4e84110874be1ebef5f4d39b0[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Fri Dec 1 00:41:39 2023 +1030
+
+    part2 employment analysis
+
+[33mcommit afcbf573dd0722374f18a47b0e652af29c41c49c[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Thu Nov 30 19:28:43 2023 +1030
+
+    Delete unemployment_cleaned.csv
+    
+    duplicate file
+
+[33mcommit 8a10b5e3c2832c942b530db0853bf5a6f6d8d530[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Thu Nov 30 19:27:09 2023 +1030
+
+    Delete unemployment_rate_cleaned.ipynb
+    
+    duplicate file
+
+[33mcommit 9077316a9b150b1e598001cfdef5cf68a6e5ca8b[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Thu Nov 30 19:26:41 2023 +1030
+
+    Delete employment_cleaned.csv
+    
+    duplicate file
+
+[33mcommit fd38b74c0ac1609b0952b2bda85501282d4525e0[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Thu Nov 30 19:26:22 2023 +1030
+
+    Delete employment_Influencingfactors_cleaned.ipynb
+    
+    duplicate file
+
+[33mcommit c415e287d84f5c043d732bc9cb0a083d0f985ade[m
+Author: LarisaXiang <134777272+LarisaXiang@users.noreply.github.com>
+Date:   Thu Nov 30 19:22:19 2023 +1030
