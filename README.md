@@ -44,4 +44,24 @@ Note: The choice of bins for categorising the unemployment rate is subjective an
 Overall, the model's performance can be considered good, especially in comparison to the initial model. However, there is always room for further tuning and improvement, particularly in addressing the variability indicated by the cross-validation scores. This could involve further hyperparameter tuning, feature engineering, or even collecting more data if possible.
 
 # 1.2 Employment Analysis 
+## Preprocessing
+- Dropping unused columns & rows 
+- Handling Categorical Variables: Categorical variables such as country, education level, and marital status are processed using OneHotEncoder.
+
+## Building and Evaluating a Linear Regression Model
+- The poor performance indicates that this algorithm does not suit the dataset well.
+
+## Implementing an optimal model : Random Forest Regressor
+- Achieve better scores by implementing the Random Forest Regressor, and also obtain the top 10 feature importances that influence the model's prediction ability.
+
+Feature importance:
+1. Model Interpretability: It helps in understanding the model's decision-making process. Knowing which features significantly influence the model's predictions can provide insights into the underlying data and the problem being solved.
+2. Model Simplification: By identifying the most important features, one can simplify the model by removing less important features. This can lead to a reduction in model complexity, faster training times, and sometimes improved model performance.
+3. Feature Engineering: Understanding which features are important can guide further feature engineering. It can reveal if additional data collection or generation of new features could improve the model.
+4. Data Reduction: For datasets with a large number of features, feature importance can be used to reduce the dimensionality of the data. This is particularly useful in cases where data collection or storage is expensive.
+
+# To do: 
+- Seek additional datasets that include other features, particularly economic ones, as these can have a significant impact on employment.
+- Create a database. 
+- Upgrade the webpage to be interactive. 
 
