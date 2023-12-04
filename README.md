@@ -41,3 +41,19 @@ Overall, the model's performance can be considered good, especially in compariso
 
 # 1.2 Employment Analysis 
 
+# 1.3 Salaries per Gender
+Investigation into salary disparities based on gender.
+
+The graph aims to predict education skill levels based on the passage of time using a linear regression model.
+- Data Preparation:
+The dataset is loaded and rows with missing values in the target variable are removed.
+-Features and Target Variable:
+The feature ('X') is defined as the 'time' column, representing years.
+The target variable ('y') is the 'obs_value,' indicating education skill levels.
+-Train-Test Split:
+The data is split into training and testing sets for model evaluation. A linear regression model is created and trained on the training data.
+-Model Evaluation:
+A scatter plot displays the actual data points ('Actual Data') and overlays the linear regression predictions ('Linear Regression Prediction').
+The x-axis represents the year, and the y-axis represents the observed education skill level.
+-Future Predictions:
+Predictions are made for future years (2021 to 2030) using the trained model.
